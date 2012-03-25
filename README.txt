@@ -35,3 +35,8 @@ Installation:
 3. Add the placeholder "$SideBar" to your template where you want to display your Facebook feed.
 4. Run "/dev/build?flush=all".
 5. Reload the CMS interface, the widget should be usable on the *Widgets* tab.
+
+========================================================================
+TODO
+Find visitor's location and show the weather condition and forecast for their locations.
+(HTML5 or PHP)
