@@ -6,8 +6,9 @@ nhudinhtuan@gmail.com
 This widget enables you to display weather forecast on your blog.
 The weather forecast information is given by Google Weather API.
 ========================================================================
+NOTE: Extract and rename the folder to widgets_googleweather after downloading from gitHub
+========================================================================
 Installation:
-
 
 +++If you are using the blog module:
 1. Extract the widgets_googleweather folder into the top level of your site.
