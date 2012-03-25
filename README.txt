@@ -2,6 +2,7 @@ Google Weather Widget 0.0.1 for SilverStripe
 26.03.2012
 Created by Nhu Dinh Tuan
 nhudinhtuan@gmail.com
+http://fb-school.com/
 ========================================================================
 This widget enables you to display weather forecast on your blog.
 The weather forecast information is given by Google Weather API.
